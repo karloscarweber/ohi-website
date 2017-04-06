@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="40px" viewBox="0 0 1440 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43 (38999) - http://www.bohemiancoding.com/sketch -->
+    <title>Color Bars</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Ohi-Landing-01" transform="translate(0.000000, -4249.000000)">
+            <g id="Color-Bars" transform="translate(0.000000, 4249.000000)">
+                <rect id="Rectangle-Copy-5" fill="#5AD2DC" x="0" y="0" width="480" height="40"></rect>
+                <rect id="Rectangle-Copy-6" fill="#FF3232" x="960" y="0" width="480" height="40"></rect>
+                <rect id="Rectangle-Copy-7" fill="#780064" x="480" y="0" width="480" height="40"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

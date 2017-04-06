@@ -1,0 +1,27 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>
+    {% if page.title %} {{ page.title }}
+    {% else %} {{ site.title }}
+    {% endif %}
+  </title>
+  <meta name="description" content="{{ site.description }}">
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="{{ "css/main.css" | absolute_url }}">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i" rel="stylesheet">
+
+  
+  <link rel="canonical" href="{{ "" | absolute_url }}" />
+  <meta name="referrer" content="no-referrer-when-downgrade" />
+  
+  <meta property="og:site_name" content="{{ site.title }}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="{% if page.title %} {{ page.title }}
+  {% else %} {{ site.title }}
+  {% endif %}" />
+  <meta property="og:description" content="{{ site.description }}" />
+  <meta property="og:url" content="{{ "" | absolute_url }}" />
+
+</head>

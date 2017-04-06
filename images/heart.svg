@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="10px" viewBox="0 0 13 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43 (38999) - http://www.bohemiancoding.com/sketch -->
+    <title>heart</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Ohi-Landing-01" transform="translate(-261.000000, -4563.000000)" fill="#FF3232">
+            <path d="M270.99969,4569.30603 L267.305721,4573 L263.611752,4569.30603 L261.765013,4567.45929 C260.744996,4566.43927 260.744996,4564.7855 261.765013,4563.76516 C262.785356,4562.74514 264.438801,4562.74514 265.458981,4563.76516 L267.305721,4565.61223 L269.152787,4563.76516 C270.172967,4562.74514 271.826739,4562.74514 272.846756,4563.76516 C273.866936,4564.7855 273.866936,4566.43895 272.846756,4567.45929 L270.99969,4569.30603 Z" id="heart"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,108 @@
+// container rows
+.grid-row {
+  display: table;
+  width:100%;
+  margin:0px;
+  padding:0px;
+  clear:both;
+  position: relative;
+}
+
+// Grid & Columns
+.grid-container {
+  position: relative;
+  width:100%;
+  max-width: 1440px;
+  margin:0px auto;
+  display:table;
+  
+  &.grid-width-1260 {
+    max-width:1260px;
+  }
+  &.grid-width-1240 {
+    max-width: 1240px;
+  }
+  
+  &.grid-width-1200 {
+    max-width: 1240px;
+  }
+  
+  &.grid-width-1120 {
+    max-width: 1120px;
+  }
+
+  &.grid-width-1040 {
+    max-width: 1040px;
+  }
+  
+  &.grid-width-1000 {
+    max-width: 1000px;
+  }
+  
+  &.grid-width-980 {
+    max-width: 980px;
+  }
+  
+  &.grid-width-920 {
+    max-width: 920px;
+  }
+}
+
+// max widths for columns (These are boxes for columns)
+.grid-column {
+  position: relative;
+  display: block;
+  width: 100%;
+  
+  &.half-column {
+    position: relative;
+    display: block;
+    width: 50%;
+  }
+  
+  &.right-column {float:right;}
+  
+  &.left-column {float:left;}
+  
+}
+
+
+// Standard Colums for 1240px wide sites
+// 1200px of which
+.standard-column {
+  display: block;
+  position: relative;
+  float: left;
+  width:100px;
+  margin-left:20px;
+  
+  &.double    {width:220px}
+  &.triple    {width:340px}
+  &.quad      {width:460px}
+  &.penta     {width:580px}
+  &.pentamax  {width:620px}
+  &.hexa      {width:700px}
+  &.septa     {width:820px}
+  &.octa      {width:940px}
+  &.nona      {width:1060px}
+  &.deca      {width:1180px}
+  
+  &.hang-right {float: right;}
+  
+}
+
+// 
+
+// Block Level Elements
+
+
+
+// Inline Elements
+
+
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
